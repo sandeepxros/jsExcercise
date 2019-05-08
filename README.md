@@ -1,0 +1,2 @@
+# jsExcercise
+JavaScript from Scratch
